@@ -1,0 +1,8 @@
+Minutes Played: Ensures the player's statistics are based on a sufficient sample size, making performance data more reliable and representative.
+Touches: Measures how involved a player is in possession and overall play, helping distinguish roles such as midfielders (high involvement) from strikers (lower involvement).
+Shots: Indicates attacking intent and goal-scoring responsibility, making it useful for identifying players in offensive positions.
+Progressive Carries: Measures a player's ability to advance the ball toward the opponent's goal through dribbling, reflecting ball progression and attacking contribution.
+Interceptions: Measures a player's ability to anticipate passes and regain possession, reflecting defensive awareness and positioning.
+Final-third Passes (Attempted/Successful): Evaluates a player's contribution to attacking build-up by measuring how often and how effectively they deliver passes into dangerous attacking areas.
+Crosses (Attempted/Successful): Measures a player's ability to create scoring opportunities from wide areas, helping identify players with wide attacking responsibilities such as wingers and full-backs.
+Ground Duels (Attempted/Successful): Measures how often a player competes in one-on-one ground contests and how frequently they win them, reflecting physical competitiveness, defensive ability, and dribbling effectiveness.
